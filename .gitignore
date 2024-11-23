@@ -1,0 +1,3 @@
+.env
+.streamlit/secrets.toml
+quiz2.py
